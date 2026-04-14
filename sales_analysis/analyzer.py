@@ -46,7 +46,7 @@ for index, row in df.iterrows():
 
 # Add totals to our data
 df['total'] = totals
-
+#made changes
 # Display with formatted totals
 print("Sales Data:")
 for index, row in df.iterrows():
